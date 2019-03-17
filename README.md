@@ -1,5 +1,5 @@
 # CellularAutomataSchedulingAlgorithm
 
-An Algorithm in my paper《Parallel Scheduling Algorithm based on Cellular Automata》
+An algorithm in《Parallel Scheduling Algorithm based on Cellular Automata》
 
 2015/3
